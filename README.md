@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yaqeen Alquwaidhi
-- 👀 I’m interested in Web Development, an Project Management.
+- 👀 I’m interested in Web Development, and Cyber Security.
 - 🌱 I’m currently learning Front-End Development
 - 📫 How to reach me ...
-twitter: i_yaq01
+LinkedIn: www.linkedin.com/in/yaqeenjq
 
 <!---
 YaqeenAlquwaidhi/YaqeenAlquwaidhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
